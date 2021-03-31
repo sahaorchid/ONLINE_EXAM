@@ -1,0 +1,119 @@
+#leftdiv{
+    width:350px;
+    margin-top:50px;
+    height:400px;
+    background-color:#ffffff;
+    display:inline-block;
+    margin-left: 100px;
+
+}
+.img{
+    margin-top: 10px;
+    width:150px;
+    height:150px;
+    border-radius:140px;
+    margin-left:105px
+}
+.label{
+    background-color: #ffffff;
+    font-family: monospace;
+    
+}
+#name{
+    padding-left: 115px;
+}
+#sub{
+    color: #6e6e6a;
+    font-family: serif;
+    font-size: medium;
+    font-weight: 600;
+    padding-left: 125px;
+}
+#uni{
+    color: #6e6e6a;
+    font-family: serif;
+    font-size: medium;
+    font-weight: 600;
+    padding-left: 142px;
+
+}
+.btn{
+    background-color: #4CAF50; ;
+    color: white;
+    border:1px solid #4CAF50 ;
+    transition-duration: 0.4s;
+    font-family: Sans-serif;
+    padding: 12px 15px;
+    font-size: large;
+    margin-left: 108px;
+}
+.btn:hover{
+    background-color: #ffffff; /* Green */
+    color: #4CAF50;
+}
+#rightdiv{
+    background-color:#ffffff;
+    display:inline-block;
+    height:400px;
+    position:absolute;
+    margin:50px;
+    width:600px;
+
+}
+.div2_fields{
+    background-color: #ffffff;
+    font-family: monospace;
+    font-size: large;
+    font-weight: bold;
+    padding-left: 0px;
+
+}
+#span1{
+    color: #6e6e6a;
+    font-family: serif;
+    font-size: medium;
+    font-weight: 600;
+    background-color: #ffffff;
+    margin-left: 150px;
+}
+#span2{
+    color: #adada6;
+    font-family: serif;
+    font-size: medium;
+    font-weight: 600;
+    background-color: #ffffff;
+    margin-left: 184px;
+}
+#span3{
+    color: #adada6;
+    font-family: serif;
+    font-size: medium;
+    font-weight: 600;
+    background-color: #ffffff;
+    margin-left: 184px;
+}
+#span4{
+    color: #adada6;
+    font-family: serif;
+    font-size: medium;
+    font-weight: 600;
+    background-color: #ffffff;
+    margin-left: 170px;
+}
+#span5{
+    color:  #adada6;
+    font-family: serif;
+    font-size: medium;
+    font-weight: 600;
+    background-color: #ffffff;
+    margin-left: 145px;
+}
+.fdiv{
+    border-bottom-color:#dbd9d5;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    background-color: #ffffff;
+    margin-left: 10px;
+    width: 580px;
+    margin-top: 30px;
+}

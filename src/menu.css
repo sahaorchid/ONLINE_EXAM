@@ -1,0 +1,46 @@
+*{
+    background-color:#dcdece;
+}
+.linkdiv{
+    height: 400px; 
+    width: 200px;
+    background-color:#ffffff;
+    list-style-type: none;
+    position: absolute;
+    text-align: center;
+    margin-left: 100px;
+}
+#timer{
+
+}
+.div_timer{
+    
+}
+.div_h1{
+    font-family: monospace;
+    margin-left: 120px;
+}
+
+.homeclass{
+    text-decoration: none;
+    background-color:#008CBA;
+    float: left;
+    display: block;
+    padding: 6px;
+    margin: 4px;
+    transition-duration: .4s;
+
+}
+.homeclass:hover{
+
+    background-color: #fffdc7;
+}
+
+.activeclass{
+    text-decoration: none;
+    float: left;
+    display: block;
+    padding: 6px;
+    margin: 4px;
+    background-color: yellow;
+}
